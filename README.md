@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Harichandan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanharichandan&label=Profile%20views&color=0e75b6&style=flat" alt="rohanharichandan" /> </p>
+
 
 
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/rohanharichandan](https://dev.to/rohanharichandan)
 
-- 💬 Ask me about **frontend, Blockchain**
+
 
 - 📫 How to reach me **harichandanrohan306@gmail.com**
 
