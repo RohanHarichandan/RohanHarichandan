@@ -5,17 +5,17 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/rohanrohan2002" target="blank"><img src="https://img.shields.io/twitter/follow/rohanrohan2002?logo=twitter&style=for-the-badge" alt="rohanrohan2002" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Blockchain**
 
-- 📝 I regularly write articles on [https://dev.to/rohanharichandan](https://dev.to/rohanharichandan)
+- 📝 You can cheak out my articles on [https://dev.to/rohanharichandan](https://dev.to/rohanharichandan)
 
 
 
 - 📫 How to reach me **harichandanrohan306@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
