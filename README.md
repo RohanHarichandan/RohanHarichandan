@@ -34,8 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
 </div>
-###Snake Eating my contribution graph
-![snake gif](https://github.com/RohanHarichandan/RohanHarichandan/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
 
